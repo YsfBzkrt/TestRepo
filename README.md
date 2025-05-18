@@ -3,7 +3,7 @@
 # **Python Project for Data Science – Stock Price Analysis**  
 
 ## **Project Overview**  
-This repository contains a basic data analysis project for the course **"Python Project for Data Science"** offere by **IBM**. The project focuses on retrieving financial data using web scraping and transforming it into a structured format for analysis.  
+This repository meant to contain a basic data analysis project for the course **"Python Project for Data Science"** offered by **IBM**. However, I am not sure that I am legally allowed to upload it. Thus, the uploaded files are empty. The project focuses on retrieving financial data using web scraping and transforming it into a structured format for analysis.  
 
 ## **Objective**  
 The goal of this project is to:  
